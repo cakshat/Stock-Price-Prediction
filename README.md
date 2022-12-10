@@ -1,4 +1,4 @@
-### ********** For tweet extraction Twint is currently not available as per twitter **************
+### ************ For tweet extraction Twint is currently not available as per twitter **************
 
 # Stock-price-prediction
 
